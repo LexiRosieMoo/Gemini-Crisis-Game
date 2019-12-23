@@ -1,0 +1,1 @@
+content = "If you get stuck, press R."

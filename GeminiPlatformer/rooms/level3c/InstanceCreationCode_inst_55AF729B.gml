@@ -1,0 +1,1 @@
+content = "It can disperse Geminightmares if they are lured into them."

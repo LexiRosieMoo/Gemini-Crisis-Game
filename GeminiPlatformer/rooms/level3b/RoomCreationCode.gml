@@ -1,0 +1,1 @@
+global.maxColor = 2

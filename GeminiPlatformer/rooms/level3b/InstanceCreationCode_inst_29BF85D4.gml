@@ -1,0 +1,1 @@
+content = "They are pure chromatic energy given form."

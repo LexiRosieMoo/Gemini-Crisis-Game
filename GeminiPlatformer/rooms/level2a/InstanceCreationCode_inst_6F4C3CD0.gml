@@ -1,0 +1,1 @@
+content = "When Shifting, phased out versions of yourself are locked in place."

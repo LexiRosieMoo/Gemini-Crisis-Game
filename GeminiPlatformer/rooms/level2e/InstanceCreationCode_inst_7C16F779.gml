@@ -1,0 +1,1 @@
+content = "Some things can only be seen from certain perspectives."

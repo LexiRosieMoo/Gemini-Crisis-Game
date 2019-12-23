@@ -1,0 +1,1 @@
+content = "Learn to work with yourself now, while you have time."

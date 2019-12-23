@@ -1,0 +1,1 @@
+shaderSelf = shader_blue

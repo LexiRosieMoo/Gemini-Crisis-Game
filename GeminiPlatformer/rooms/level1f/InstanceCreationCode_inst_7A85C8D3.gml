@@ -1,0 +1,1 @@
+content = "Claim its power and learn to Shift."

@@ -1,0 +1,1 @@
+content = "The Refraction Core is stable,"

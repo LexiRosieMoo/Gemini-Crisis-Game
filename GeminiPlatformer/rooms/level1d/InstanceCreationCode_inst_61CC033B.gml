@@ -1,0 +1,1 @@
+content = "Despite being a reflection of a distant past, for you he is as solid as anything else."

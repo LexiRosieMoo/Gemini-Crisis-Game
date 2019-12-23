@@ -1,0 +1,1 @@
+content = "That is a shard of the Refraction Core."
